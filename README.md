@@ -7,7 +7,7 @@ It aggregates ship and flight routes, live coordinates, and geodata into a unifi
 
 🚀 Visit Blog: [haybnz.web.app](https://haybnz.web.app/blog)
 
-## 🌟 Features
+## 🌟 FeaturesZ
 
 -   🗺️ Access to GeoJSON data and surveillance grid tiles.
 -   ✈️ Real-time flight data.
